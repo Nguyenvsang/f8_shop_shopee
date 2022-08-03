@@ -1192,3 +1192,19 @@ i.home-product-item__like-icon-fill {
     position: relative;
     top: 4px;
 }
+
+.home-product__pagination {
+    margin: 48px 0 32px;
+}
+
+/* footer */
+.footer {
+    padding-top: 12px;
+    border-top: 4px solid var(--primary-color);
+}
+
+.footer__heading {
+    font-size: 1.6rem;
+    text-transform: uppercase;
+    color: var(--text-color);
+}
